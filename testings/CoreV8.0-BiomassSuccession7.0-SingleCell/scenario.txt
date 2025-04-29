@@ -18,12 +18,12 @@ LandisData  "Scenario"
 >> REQUIRED INPUTS
 >>-------------------
 
-Duration  	50
+Duration  	400
 
 Species   	Core_species_data.txt
 
 Ecoregions      ./ecoregions.txt
-EcoregionsMap   ./ecoregions.tif
+EcoregionsMap   ./single3.tif
 
 CellLength  	100 << meters, 100 x 100 m = 1 ha
 
@@ -55,7 +55,7 @@ CellLength  	100 << meters, 100 x 100 m = 1 ha
 
 >> 	Output Extension		Initialization File
 >> 	----------------		-------------------
-  	"Output Biomass"		output_Biomass.txt		
+>>  	"Output Biomass"		output_Biomass.txt		
 
 
 
